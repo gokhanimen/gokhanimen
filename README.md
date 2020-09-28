@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi There 👋
+
+In this new way I started, I am here to share all the information I have learned on my account as much as I can, to be useful to friends who are new to the software and to record what I know and what I do. Let's start! 🎬
 
 <!--
 **gokhanimen/gokhanimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
